@@ -1,7 +1,7 @@
-package com.grantserve.grantservebackend.module1_identity.config.controller;
+package com.grantserve.grantservebackend.controller;
 
-import com.grantserve.grantservebackend.module1_identity.config.entity.User;
-import com.grantserve.grantservebackend.module1_identity.config.service.UserService;
+import com.grantserve.grantservebackend.entity.User;
+import com.grantserve.grantservebackend.service.UserService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

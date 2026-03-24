@@ -1,4 +1,4 @@
-package com.grantserve.grantservebackend.module1_identity.config.entity;
+package com.grantserve.grantservebackend.entity;
 
 import jakarta.persistence.*;
 import java.time.LocalDateTime;

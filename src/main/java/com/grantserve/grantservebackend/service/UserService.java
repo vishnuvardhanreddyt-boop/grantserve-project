@@ -1,9 +1,9 @@
-package com.grantserve.grantservebackend.module1_identity.config.service;
+package com.grantserve.grantservebackend.service;
 
-import com.grantserve.grantservebackend.module1_identity.config.entity.User;
-import com.grantserve.grantservebackend.module1_identity.config.entity.AuditLog;
-import com.grantserve.grantservebackend.module1_identity.config.repository.UserRepository;
-import com.grantserve.grantservebackend.module1_identity.config.repository.AuditLogRepository;
+import com.grantserve.grantservebackend.entity.User;
+import com.grantserve.grantservebackend.entity.AuditLog;
+import com.grantserve.grantservebackend.repository.UserRepository;
+import com.grantserve.grantservebackend.repository.AuditLogRepository;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDateTime;

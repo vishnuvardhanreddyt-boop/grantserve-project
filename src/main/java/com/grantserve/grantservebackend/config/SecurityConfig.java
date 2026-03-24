@@ -1,4 +1,4 @@
-package com.grantserve.grantservebackend.module1_identity.config;
+package com.grantserve.grantservebackend.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
